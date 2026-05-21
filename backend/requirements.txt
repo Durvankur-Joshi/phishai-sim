@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+requests
+beautifulsoup4
+python-dotenv
+pymongo
+scikit-learn
+sentence-transformers
+numpy
